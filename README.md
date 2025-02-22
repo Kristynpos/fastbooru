@@ -11,7 +11,7 @@ usage: fastbooru [options] {tags} {directory}
 
 Fastest gelbooru image downloader.
 Made by Cloud11665, under the GNU gplv3 license.
-https://github.com/cloud11665/fastbooru
+https://github.com/Kristynpos/fastbooru
 
 optional arguments:
   -h, --help         show this help message and exit
@@ -29,5 +29,5 @@ pip install fastbooru
 ```
 latest
 ```sh
-pip install git+https://github.com/Cloud11665/fastbooru.git@master
+pip install git+https://github.com/Kristynpos/fastbooru.git@master
 ```
